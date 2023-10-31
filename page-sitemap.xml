@@ -2,6 +2,25 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
+		<lastmod>2023-10-31T12:14:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Homepage-VN-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/aus-white.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/ASTM-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/ISO-9001-v2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Chinh-Dai-Steel.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Chinh-Dai-Steel-Logo.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/gioi-thieu/</loc>
@@ -29,28 +48,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/Icham-Header-Logo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/trang-chu/</loc>
-		<lastmod>2023-10-31T12:14:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Homepage-VN-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/aus-white.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/ASTM-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/ISO-9001-v2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Chinh-Dai-Steel.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Chinh-Dai-Steel-Logo.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
